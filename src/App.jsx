@@ -18,11 +18,11 @@ const freelancers = [
     id: 2,
     name: "Tuhin Ghosh",
     github: "TuhinCodeCraft",
-    bio: "Creative frontend developer specializing in modern JavaScript frameworks and responsive design. Expert in crafting beautiful, interactive user interfaces.",
-    specializations: ["Frontend Development", "JavaScript/TypeScript", "Mobile-First Design", "API Integration"],
-    email: "tuhin.ghosh.dev@gmail.com",
-    linkedin: "https://linkedin.com/in/tuhinghosh",
-    twitter: "https://twitter.com/tuhincodecraft",
+    bio: "Full-stack developer specializing in the MERN stack and Next.js, building scalable, user-focused apps with real-time features and AI integration.",
+    specializations: ["Full-Stack Web Dev (MERN, Next.js)", "TypeScript", "AI Tools & Smart Projects"],
+    email: "tuhinghosh.dev@gmail.com",
+    linkedin: "https://www.linkedin.com/in/tuhin-ghosh-bb4607291/",
+    twitter: "https://x.com/tuhincode",
     portfolio: "https://tuhinghosh.dev"
   },
   {
