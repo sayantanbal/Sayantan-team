@@ -8,10 +8,10 @@ const freelancers = [
     name: "Sayantan Bal",
     github: "sayantanbal",
     bio: "Full-stack developer with expertise in React, Node.js, and cloud technologies. Passionate about creating scalable web applications and modern user experiences.",
-    specializations: ["React Development", "Node.js Backend", "AWS Cloud", "UI/UX Design"],
+    specializations: ["Data Analyst", "Full-Stack Web Dev (MERN)", "Django", "Flask Backend", "AWS Cloud", "UI/UX Design"],
     email: "sayantan.bal.dev@gmail.com",
     linkedin: "https://linkedin.com/in/sayantanbal",
-    twitter: "https://twitter.com/sayantanbal",
+    twitter: "https://x.com/Sayantan_bal",
     portfolio: "https://sayantanbal.dev"
   },
   {
@@ -33,7 +33,7 @@ const freelancers = [
     specializations: ["Python Development", "Database Design", "DevOps & CI/CD", "System Architecture"],
     email: "pritam.mahata.dev@gmail.com",
     linkedin: "https://linkedin.com/in/pritammahata",
-    twitter: "https://twitter.com/pritammahata",
+    twitter: "https://x.com/pritammahata",
     portfolio: "https://pritammahata.dev"
   }
 ]
