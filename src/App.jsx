@@ -142,7 +142,7 @@ function App() {
       </main>
 
       <footer className="app-footer">
-        <p>© 2025 Student Freelancer Team. Available for hire!</p>
+        <p>© {new Date().getFullYear()} Freelancer Team. Available for hire!</p>
       </footer>
     </div>
   )
