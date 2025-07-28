@@ -29,11 +29,14 @@ const freelancers = [
     id: 3,
     name: "Pritam Mahata",
     github: "PritamMahata",
-    bio: "Backend specialist and DevOps enthusiast with strong expertise in Python, databases, and deployment automation. Focused on building robust server architectures.",
-    specializations: ["UI/UX Design", "Python Development", "Database Design", "DevOps & CI/CD", "System Architecture"],
-    email: "pritam.mahata.dev@gmail.com",
+    "bio": "Web development with strong experience in full-stack architecture. Skilled in building responsive, privacy-first dashboards and modern web applications.",
+    specializations: [
+      "Full-Stack Web Development",
+      "HTML/CSS/JS/React Design",
+    ],
+    email: "pritammahata.dev@gmail.com",
     linkedin: "https://linkedin.com/in/pritam-mahata",
-    twitter: "https://x.com/pritammahata",
+    twitter: "https://x.com/pritammahata_",
     portfolio: "https://pritam-mahata.netlify.app"
   }
 ]
