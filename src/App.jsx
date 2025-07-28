@@ -23,7 +23,7 @@ const freelancers = [
     email: "tuhinghosh.dev@gmail.com",
     linkedin: "https://www.linkedin.com/in/tuhin-ghosh-bb4607291/",
     twitter: "https://x.com/tuhincode",
-    portfolio: "https://tuhinghosh.dev"
+    portfolio: "https://tuhinghosh.netlify.app/"
   },
   {
     id: 3,
